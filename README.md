@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi, I'm Anumi 👋
+
+Business Information Systems student at IIT (University of Westminster).
+
+### Interests
+- Business Analysis
+- CRM & Salesforce
+- ERP Systems
+- Data Management
+- Technology in Sports
+
+### Currently Learning
+- Salesforce Trailhead
+- Business Analysis (LinkedIn Learning)
+- CIMA Certificate Level
+
+### Projects
+- Salesforce Trailhead Portfolio (see repositories)
 
 <!--
 **anumijayasinghe/anumijayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
